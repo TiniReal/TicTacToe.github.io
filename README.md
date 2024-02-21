@@ -22,4 +22,4 @@ Questo progetto consiste nello sviluppo di un mini-sito web interattivo del famo
 4. L'obiettivo è ottenere tre simboli consecutivi (X o O) in una riga, colonna o diagonale sulla griglia.
 
 ## Prova del sito
-[LINK]()
+[LINK](https://tinireal.github.io/TicTacToe.github.io/)
